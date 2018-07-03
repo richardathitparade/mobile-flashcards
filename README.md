@@ -10,7 +10,7 @@ This is the third project for the [React Nanodegree](https://www.udacity.com/cou
 
 It is a mobile application that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
-The app is built with React Native and was developed and tested for **iOS only**.
+The app is built with React Native and was developed for android and ios but tested for **iOS only**.
 
 ## Table of Contents
 
