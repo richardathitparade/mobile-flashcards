@@ -2,7 +2,7 @@
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
-[![CircleCI](https://circleci.com/gh/cubiio/mobile-flashcards/tree/master.svg?style=svg)](https://circleci.com/gh/cubiio/mobile-flashcards/tree/master)
+[![CircleCI](https://circleci.com/gh/richardathitparade/mobile-flashcards/tree/master.svg?style=svg)](https://circleci.com/gh/richardathitparade/mobile-flashcards/tree/master)
 
 ## Description
 
@@ -59,10 +59,10 @@ To get started with this repository:
 # git clone the repository e.g. into a <projects> folder
 cd <projects>
 # git clone with ssh
-git@github.com:cubiio/mobile-flashcards.git
+git@github.com:richardathitparade/mobile-flashcards.git
 
 # or git clone with HTTPS
-git clone https://github.com/cubiio/mobile-flashcards.git
+git clone https://github.com/richardathitparade/mobile-flashcards.git
 
 # change directory into the cloned repo
 cd mobile-flashcards
@@ -132,7 +132,7 @@ Open the project and select publish.
 
 ### Demo
 
-The app is available on [Expo.io](https://expo.io/@cubiio/mobile-flashcards).
+The app is available on [Expo.io](https://expo.io/@richardathitparade/mobile-flashcards).
 
 ## License and Contributing
 
